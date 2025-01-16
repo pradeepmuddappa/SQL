@@ -15,6 +15,6 @@ jobs:
         uses: volvo-cars/sfmc-query-activity@v1
         with:
           config-file: './sfmc-queries.yml'
-          sfmc-client-id: ${{ secrets.SFMC_CLIENT_ID }}
-          sfmc-client-secret: ${{ secrets.SFMC_CLIENT_SECRET }}
-          sfmc-account-id: ${{ secrets.SFMC_ACCOUNT_ID }}
+          sfmc-client-id: ${{ secrets.sphgyo8xgkx4zt16b2p1n906 }}
+          sfmc-client-secret: ${{ secrets.877oRnzNuNx4pIdsqiSqSpVd }}
+          sfmc-account-id: ${{ secrets.7328812 }}
